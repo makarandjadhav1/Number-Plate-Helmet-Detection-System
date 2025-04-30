@@ -1,0 +1,7 @@
+ultralytics==8.0.20
+opencv-python
+numpy
+cvzone
+paddleocr
+paddlepaddle
+xlwings
